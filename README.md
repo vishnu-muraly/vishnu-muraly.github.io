@@ -6,19 +6,17 @@ Hosted by Vishnu Murali (Consultant @ Deloitte | Data & Analytics)
 
 ## 👩🏼‍💻 Why you should join TAC ?
 
-**Frontend Engineer** 
+**the new kind of learning and career preparation** 
   - Industry-relevant learning, designed for working professionals
-  - Building a new frontend component library
-  - **_Technologies used:_** HTML, CSS, Sass, Web Components (LitElement), Vue, TypeScript, Storybook, Jest.
-<br><br>
+  - Building a project portfolio
+  - **_Tech stack:_** Excel, SQL, Python, PowerBI
 
-**Google Season of Docs 2020 | Technical Writer** @ [GraphQL Foundation](https://foundation.graphql.org/) _(Aug 2020 - Jan 2021)_ <br>
-[Google Season of Docs](https://developers.google.com/season-of-docs/docs/participants) is a program matching experienced technical writers with open source organizations.
-  - Created a [Frequently Asked Questions (FAQ) resource](https://graphql.org/faq/) for graphql.org, including all the content and page functionality
-  - Triaged issues and reviewed pull requests to the [GraphQL website](https://github.com/graphql/graphql.github.io/)
-  - Wrote [internal documentation](https://github.com/graphql/graphql.github.io/blob/source/CONTRIBUTING.md) to improve the contributing experience
-  - **_Technologies used:_** CSS, React, TypeScript, Gatsby, GraphQL.
-<br><br>
+**Learning approach** 
+[Flip learning](https://sites.google.com/site/flippedlearninggtu/what-is-flipped-learing) is a program to shift the learning from passive to active.
+  - Click here to access free [data analytics](https://graphql.org/faq/) course, including all the content and resources
+  - Learn with your peer group and mentors [Join Discourse group](https://github.com/graphql/graphql.github.io/)
+  -  [Join live sessions](https://github.com/graphql/graphql.github.io/blob/source/CONTRIBUTING.md) to improve the contributing experience
+  - **Expert mentors from:** Deloitte, EY, Fractal, Latentview
 
 **Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
 Early-stage startup focused on automated API testing and NLP.
