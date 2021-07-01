@@ -14,69 +14,47 @@ Hosted by Vishnu Murali (Consultant @ Deloitte | Data & Analytics)
 **Learning approach** 
 [Flip learning](https://sites.google.com/site/flippedlearninggtu/what-is-flipped-learing) is a program to shift the learning from passive to active.
   - Click here to access free [data analytics](https://graphql.org/faq/) course, including all the content and resources
-  - Learn with your peer group and mentors [Join Discourse group](https://github.com/graphql/graphql.github.io/)
+  - Learn with your peer group and mentors [Join Discord group](https://github.com/graphql/graphql.github.io/)
   -  [Join live sessions](https://github.com/graphql/graphql.github.io/blob/source/CONTRIBUTING.md) to improve the contributing experience
   - **Expert mentors from:** Deloitte, EY, Fractal, Latentview
 
-**Software Engineer** @ [Meeshkan](http://meeshkan.com/) _(Oct 2019 - Sep 2020)_ <br>
-Early-stage startup focused on automated API testing and NLP.
+
+## Course overiew
+
+| Tools | Description |
+| ------ | ----------- |
+| Excel   | Learn from the basics of excel, data modelling and statisitcs |
+| SQL | from creating tables, modifying and joining. |
+| Python   | from programming basics to analytics libraries. |
+
+## Project based learning
+
+We beleive on hands on learning approach for students who join TAC
   - Built the [website](https://meeshkan.com/) and the [web app](https://app.meeshkan.com/) that visualizes the test reports
   - Maintained [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
   - Ownership of Meeshkan's [documentation](https://meeshkan.com/docs/) and [technical blog](https://meeshkan.com/blog/)
   - **_Technologies used:_** TypeScript, React, Gatsby, Chakra, Next.js, Node.js, GraphQL, REST, Jest, CircleCI, Python.
-  - **_Selected open-source work:_**
-    - [Jest configuration for the unmock-js runner](https://github.com/meeshkan/unmock-jest-runner)
-    - [Property-based testing for JavaScript developers](https://dev.to/meeshkan/property-based-testing-for-javascript-developers-21b2)
-    - [HTTP Mocking Toolkit documentation](https://github.com/meeshkan/hmt)
-    <br><br>
 
-**Frontend Engineer** @ [Blacklane](https://www.blacklane.com/en) _(Mar 2018 - Sep 2019)_ <br>
+## We mentor you for these job profiles
+
+**Business analyst** 
 Professional chauffeur service available in over 300 cities worldwide.
   - Worked in a cross-functional, agile team to rebuild and rebrand the [B2C booking experience](https://www.blacklane.com/en/)
   - Led an accessibility initiative resulting in the website [passing WCAG 2.0 requirements](https://www.blacklane.com/en/accessibility/)
   - Extended and maintained a company-wide design system
-  - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript, Storybook, Redux, Next.js, REST, Jest, Mocha, Cypress, TravisCI.
-  <br><br>
+  - **_Technologies used:_** HTML, CSS, JavaScript ES6, React, TypeScript
 
-**Technical Writer** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
+**Data analyst** @ [Contentful](https://www.contentful.com/) _(Sep 2017 - Feb 2018)_ <br>
 API-first infrastructure to create, manage and distribute content.
+
   - Ownership of Contentful's [technical blog](https://www.contentful.com/blog/)
   - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
   - Assistance with information architecture and UX writing for the web app
   - **_Technologies used:_** React, Gatsby, Node.js, GraphQL, REST, Contentful.
-  - **_Selected writing:_**
-    - [JavaScript SDK guide](https://www.contentful.com/developers/docs/javascript/tutorials/using-js-cda-sdk/)
-    - [Node.js example app and courses](https://the-example-app-nodejs.contentful.com/courses)
-    - Concept references: [Domain model](https://www.contentful.com/developers/docs/concepts/domain-model/), [Multiple environments](https://www.contentful.com/developers/docs/concepts/multiple-environments/)
-    <br><br>
     
-## 🗞 Journalism Experience
+## 🗞 Community projects
 
-_This section only accounts for work done post-career change._
-<br><br>
-
-**Contributing Writer** @ [Future of Sex](https://futureofsex.net/) _(Dec 2020 - Present)_ <br>
-Online publication that provides insights into the future of human sex and sexuality.
-  - Writing regular features focused on sexual health and identity
-  - Reporting on events that are relevant to the sex tech community
-  - **_Selected articles:_**
-    - [Does Having an IUD Make You a Biohacker or a Cyborg?](https://futureofsex.net/augmentation/does-having-an-iud-make-you-a-biohacker-or-a-cyborg/)
-    - [Sex Tech Hackers Will Get 'Touchy Feely' at Virtual Event This Weekend](https://futureofsex.net/sex-tech/sex-tech-hackers-will-get-touchy-feely-at-virtual-event-this-weekend/)
-<br><br>
-
-**Freelance Writing** _(Mar 2020 - Present)_ <br>
-Recent articles in [Curve Magazine](https://www.curvemag.com/us-home/beyond-the-binary-how-software-engineer-sara-vieira-founded-a-global-community-of-queer-coders/), [DZone](https://dzone.com/users/4255812/carolstran.html), and [FAWCO's Inspiring Women Magazine](https://workwithcarolyn.com/words/fawco-feature).
-<br><br>
-
-**Contributing Editor** @ [FLURT Magazine](https://www.facebook.com/flurtmagazine) _(Mar 2016 - Sep 2018)_ <br>
-Magazine for socially conscious young people who want to create their own media.
-  - Wrote over 20 articles for print and web focused on technology and activism
-  - Edited and curated online-exclusive content
-  - **_Selected articles:_**
-    - [The War on Sex](https://workwithcarolyn.com/words/war-on-sex)
-    - [What to Do if You Get Doxed](https://workwithcarolyn.com/words/what-to-do-if-you-get-doxed)
-    - [High Tech Sex](https://workwithcarolyn.com/words/high-tech-sex)
-    <br><br>
+Upcoming soon. 
 
 ## 📌 On The Side
 
