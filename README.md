@@ -1,4 +1,4 @@
-# Vishnu Murali
+# The Analytics Club
 
 _Data Consultant @ Deloitte USI (and sometimes still a journalist) based in Berlin, Germany_ <br>
 
