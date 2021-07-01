@@ -34,7 +34,8 @@ We beleive on hands on learning approach for students who join TAC
   - Maintained [unmock-js](https://github.com/meeshkan/unmock-js), an open-source fuzz testing library
   - Ownership of Meeshkan's [documentation](https://meeshkan.com/docs/) and [technical blog](https://meeshkan.com/blog/)
   - **_Technologies used:_** TypeScript, React, Gatsby, Chakra, Next.js, Node.js, GraphQL, REST, Jest, CircleCI, Python.
-### What you will learn to do ?
+  
+## What you will learn to do ?
 
 ![Branching](https://res.cloudinary.com/hevo/image/upload/f_auto,q_auto/v1617441941/hevo-learn/main-qimg-7b6042e47c1d21b9af33404126138beb-1.jpg)
 
