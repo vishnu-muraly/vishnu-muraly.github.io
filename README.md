@@ -1,14 +1,13 @@
-# Vishnu Muraly
+# The Analytics Camp (TAC)
 
-_Data Consultant @ Deloitte USI (and sometimes still a journalist) based in Berlin, Germany_ <br>
+Hosted by Vishnu Murali (Consultant @ Deloitte | Data & Analytics)
 
-[Email](mailto:hello@workwithcarolyn.com) / [Website](https://workwithcarolyn.com/) / [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/carolstran/) / [Twitter](https://twitter.com/carolstran/) / [DEV](https://dev.to/carolstran/)
+[Email](mailto:hello@workwithcarolyn.com) /  [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/vishnu-muraly/) / [Twitter](https://twitter.com/vishnumuraly/) 
 
-## 👩🏼‍💻 Technical Experience
+## 👩🏼‍💻 Why you should join TAC ?
 
-**Frontend Engineer** @ [BRYTER](https://bryter.io/) _(Dec 2020 - Present)_ <br>
-No-code platform that enables professionals to build interactive applications.
-  - Extending and maintaining a company-wide design system
+**Frontend Engineer** 
+  - Industry-relevant learning, designed for working professionals
   - Building a new frontend component library
   - **_Technologies used:_** HTML, CSS, Sass, Web Components (LitElement), Vue, TypeScript, Storybook, Jest.
 <br><br>
