@@ -1,6 +1,6 @@
 # The Analytics Camp (TAC)
 
-Hosted by Vishnu Murali (Consultant @ Deloitte | Data & Analytics)
+Hosted by Vishnu Murali
 
 [Email](mailto:hello@workwithcarolyn.com) /  [LinkedIn](https://www.linkedin.com/in/carolstran/) / [GitHub](https://github.com/vishnu-muraly/) / [Twitter](https://twitter.com/vishnumuraly/) 
 
